@@ -21,10 +21,10 @@ The interview was pure propaganda; the North Vietnamese had scripted Denton's re
 
 ## How to run 
 Download the files mentioned in downloads section and install libraries specified.Then clone this repository or Download and run following:
-- To run on Web Cam 
+- To run it on Web Cam 
 
 `-python eye_blink_Morse.py --shape-predictor shape_predictor_68_face_landmarks.dat`
-- To on recorded video 
+- To run it on recorded video 
 
 `-python eye_blink_Morse.py --shape-predictor shape_predictor_68_face_landmarks.dat --video blink_detection_demo.mp4`
 
