@@ -1,6 +1,6 @@
 # Eye-Blinking-Morse-Code-Detection
 Blinking eye can send a Morse Code. The goal of the project is to detect the morse code and convert it into a readable message.
-This project has been completed by help from [pyimagesearch.com](https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/)
+This project has been completed by help from eye blink detection tutorial on [pyimagesearch.com](https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/)
 
 ## Story behind eye blink Morse Code
 In 1966, while being held as a POW by the North Vietnamese, the American aviator Jeremiah Denton appeared in a televised interview with a Japanese reporter. When asked about the conditions under which he was being held, Denton said, "I get adequate food, adequate clothing and medical care when I require it." But notice the labored way in which Denton blinks his eyes while he is talking. As a Naval Aviator, Denton was trained in the use of Morse Code and he took this opportunity to blink out a coded message to any American forces that might be watching. In a sense, he was using his eyelids to say something very different than what he was saying with his mouth.
